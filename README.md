@@ -1,5 +1,5 @@
 ---
-description: Getting start with Librarian.
+description: Getting started with Librarian.
 ---
 
 # Getting started
