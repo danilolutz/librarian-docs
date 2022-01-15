@@ -23,3 +23,13 @@ To install Librarian click on the link below:
 On Windows look for librarian-_some.version_.Setup.exe
 
 On Linux (Debian) look for librarian\__some.version_\_amd64.deb
+
+### Opening Librarian
+
+After install finishes, open Librarian.
+
+For first time run, you will need to login with admin password witch is: librarian@admin
+
+Now you'll see [Start Screen](start-screen.md).
+
+_**Note:**_ Please change the admin password when you login for first time...
