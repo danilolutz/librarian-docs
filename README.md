@@ -24,4 +24,4 @@ Get the Librarian latest version
 
 On Windows look for librarian-_some.version_.Setup.exe
 
-On Linux (Debian) look for: librarian\__some.version_\_amd64.deb
+On Linux (Debian) look for librarian\__some.version_\_amd64.deb
