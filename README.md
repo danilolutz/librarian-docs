@@ -6,7 +6,7 @@ description: Começando com o Librarian.
 
 ## Visão geral
 
-O Librarian é um software que permite o gerenciamento básico de uma biblioteca, seja ela pessoal ou de alguma pequena organização. Os recursos que podem ser citados são:
+O Librarian é um software que permite o gerenciamento básico de uma biblioteca, seja ela pessoal, para escolas ou alguma pequena organização. Os recursos que podem ser citados são:
 
 * Gerenciamento dos Títulos
 * Gerenciamento das Pessoas
