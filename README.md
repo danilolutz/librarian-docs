@@ -23,3 +23,13 @@ Para instalar o Librarian basta clicar no link abaixo:
 No Windows procure por librarian-_alguma.versao_.Setup.exe
 
 No Linux (Debian) procure por librarian\__alguma.versao_\_amd64.deb
+
+### Abrindo o Librarian
+
+Após o final da instalação, abra o Librarian.
+
+Ao executar pela primeira vez, você precisará entrar com a senha do administrador que é: librarian@admin
+
+Agora você já consegue visualizar a [Tela Inicial](tela-inicial.md).
+
+_**Observação:**_ Por favor altere a senha do admin assim que entrar pela primeira vez...
