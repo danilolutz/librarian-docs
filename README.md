@@ -18,9 +18,7 @@ Use-o sem moderação, e nos dê seu _feedback,_ para que possamos melhorar o Li
 
 Para instalar o Librarian basta clicar no link abaixo:
 
-{% embed url="https://github.com/librarian-org/librarian/releases/latest" %}
-Obter a última versão do Librarian
-{% endembed %}
+[https://github.com/librarian-org/librarian/releases/latest](https://github.com/librarian-org/librarian/releases/latest)
 
 No Windows procure por librarian-_alguma.versao_.Setup.exe
 
