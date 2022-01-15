@@ -6,7 +6,7 @@ description: Getting started with Librarian.
 
 ## Overview
 
-Librarian is a software that allows the basic library management, it can be for personal or for small organization. Resources that can be cited are:
+Librarian is a software that allows the basic library management, it can be for personal, for schools or for small organization. Resources that can be cited are:
 
 * Title Management
 * People Management
