@@ -16,8 +16,12 @@ Use-o sem moderação, e nos dê seu _feedback,_ para que possamos melhorar o Li
 
 ### Instalando
 
-Para instalar o Librarian basta clicar nos links abaixo para fazer o download de acordo com sua plataforma:
+Para instalar o Librarian basta clicar no link abaixo:
 
-* Windows
-* Linux
-* MacOS
+{% embed url="https://github.com/librarian-org/librarian/releases/latest" %}
+Obter a última versão do Librarian
+{% endembed %}
+
+No Windows procure por librarian-_alguma.versao_.Setup.exe
+
+No Linux (Debian) procure por librarian\__alguma.versao_\_amd64.deb
