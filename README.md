@@ -28,7 +28,7 @@ On Linux (Debian) look for librarian\__some.version_\_amd64.deb
 
 After install finishes, open Librarian.
 
-For first time run, you will need to login with admin password witch is: librarian@admin
+For first time run, you will need to login with admin password witch is: admin@librarian
 
 Now you'll see [Start Screen](start-screen.md).
 
