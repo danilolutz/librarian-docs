@@ -9,3 +9,4 @@
   * [Listagem de Pessoas](tela-de-pessoa/listagem-de-pessoas.md)
   * [Detalhes da Pessoa](tela-de-pessoa/detalhes-da-pessoa.md)
 * [Tela de configurações](tela-de-configuracoes.md)
+* [Tela de empréstimos](tela-de-emprestimos.md)
