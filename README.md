@@ -28,7 +28,9 @@ No Linux (Debian) procure por librarian\__alguma.versao_\_amd64.deb
 
 Após o final da instalação, abra o Librarian.
 
-Ao executar pela primeira vez, você precisará entrar com a senha do administrador que é: admin@librarian
+Ao executar pela primeira vez, você precisará entrar com a senha do administrador (admin) que é: admin@librarian
+
+![Tela de Login](.gitbook/assets/librarian-login.png)
 
 Agora você já consegue visualizar a [Tela Inicial](tela-inicial.md).
 
