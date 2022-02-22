@@ -12,7 +12,7 @@ O cabeçalho dessa tela consiste nos seguintes campos:
 * **Tipo de Usuário**: Campo para escolher qual é o perfil da pessoa, atualmente existem apenas 3 (Administrador, Bibliotecário e Pessoa), onde os dois primeiros são quem administra o sistema e o último é o perfil para quem de fato empresta os títulos.
 * **Documento**: Serve para informar um documento da pessoa, por exemplo, em caso de alunos de uma escola, pode ser informado o Registro de Aluno (RA).
 * **Login**: Um usuário para a pessoa, para usar num futuro sistema de consulta.
-* **Senha**: Uma senha para a pessoa, para usar num futuro sistema de consulta.
+* **Senha**: Uma senha para a pessoa, para usar num futuro sistema de consulta. Se esse campo for informado no momento de alteração de um registro, a senha sofrerá uma atualização. Esse recurso foi implementado caso o usuário esqueça a senha.
 * **Observações**: Qualquer comentário que queira realizar sobre a determinada pessoa.
 
 A tela de Pessoa possui duas subdivisões: Contatos e Endereços. Vamos falar delas agora.
