@@ -41,3 +41,4 @@ E o ![](<.gitbook/assets/image (3).png>) ícone ao ser clicado realiza o **Empr�
 
 ![Tela de empréstimo - Guia Reservas](<.gitbook/assets/image (4).png>)
 
+E esse é o funcionamento da tela de Empréstimos.
