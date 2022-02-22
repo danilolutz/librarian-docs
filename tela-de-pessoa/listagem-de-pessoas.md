@@ -8,7 +8,7 @@ A tela de Listagem de Pessoas funciona de maneira simples: É uma tela onde ao c
 
 Essa tela pode ser acessada pelo _QuickSearch_ (`Ctrl+F`) e clicando sobre Pessoa:
 
-![Acessando a Listagem de Pessoas](<../.gitbook/assets/image (1).png>)
+![Acessando a Listagem de Pessoas](<../.gitbook/assets/image (1) (1).png>)
 
 Ao clicar no ícone de lápis, o sistema redireciona para tela de [Edição de Pessoa](./). Vale comentar que essa tela possui também um recurso de paginação.
 
