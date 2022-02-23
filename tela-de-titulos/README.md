@@ -22,7 +22,7 @@ A guia de Edições é onde criamos uma identificação única para o Título de
 * **Data Publicação**: É a data referente a quando e edição foi publicada.
 * **Editora**: É a editora que lançou a referida edição. Nesse campo pode-se escrever o nome de uma editora e se a mesma já estiver cadastrada irá aparecer na lista, então basta selecioná-la, caso a mesma não exista, a opção de criação aparecerá bastando pressionar `Enter` para que a mesma seja criada.
 
-Após os campos serem corretamente preechidos, basta clicar no botão `+` para inserir o registro. O que permite vincular diversas edições ao mesmo título.
+Após os campos serem corretamente preenchidos, basta clicar no botão `+` para inserir o registro. O que permite vincular diversas edições ao mesmo título.
 
 
 
