@@ -30,6 +30,8 @@ After install finishes, open Librarian.
 
 For first time run, you will need to login with admin password witch is: admin@librarian
 
-Now you'll see [Start Screen](start-screen.md).
+![Login screen](.gitbook/assets/librarian-login.png)
+
+Now you'll see [Start Screen](home-screen.md).
 
 _**Note:**_ Please change the admin password when you login for first time...
