@@ -19,11 +19,11 @@ A guia de Empréstimo é onde registramos os empréstimos/reservas para uma pess
 * **Título**: É o Título junto a sua classificação (Tombo) que será emprestado/reservado.
 * **Data Empréstimo**: É a data quando o Título foi emprestado, não tem muita importância se tratando de uma reserva.
 * **Data Devolução**: É a data quando o Título deve ser devolvido, não tem muita importância se tratando de uma reserva.
-* **Reservar**: Ao marcar esse campos, é dito para o sistema reservar o Título.
+* **Reservar**: Ao marcar esse campo, é dito para o sistema reservar o Título.
 
 _Nota_: Os campos Data Empréstimo e Data Devolução, não são importantes se tratando de uma reserva pois, quando a reserva for efetivada em um empréstimo, as datas serão atualizadas automáticamente de acordo com as configurações da [Tela de configurações](tela-de-configuracoes.md).
 
-Após os campos serem corretamente preechidos, basta clicar no botão `+` para realizar o empréstimo/reserva.
+Após os campos serem corretamente preenchidos, basta clicar no botão `+` para realizar o empréstimo/reserva.
 
 ![Tela de empréstimos - Guia Empréstimo ](<.gitbook/assets/image (2).png>)
 

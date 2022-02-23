@@ -34,17 +34,17 @@ Vamos agora verificar como funciona a Guia Autores.
 
 ### Guia Autores
 
-A Guia Autores é onde referenciamos os autores à publicação, ela é bem simples e possuio apenas um campo:
+A Guia Autores é onde referenciamos os autores à publicação, ela é bem simples e possui apenas um campo:
 
 * **Autor**: Esse campo funciona da seguinte forma: pode-se escrever o nome do autor e se o mesmo já estiver cadastrado irá aparecer na lista, então basta selecioná-lo, caso o mesmo não exista, a opção de criação aparecerá bastando pressionar `Enter` para que o mesmo seja criado, assim como o campo Editora da Guia Edições.
 
-Após os campos serem corretamente preechidos, basta clicar no botão `+` para inserir o registro.  O que permite vincular diversos autores ao mesmo título.
+Após os campos serem corretamente preenchidos, basta clicar no botão `+` para inserir o registro.  O que permite vincular diversos autores ao mesmo título.
 
 ![Tela de Títulos com Guia de Autores](<../.gitbook/assets/librarian-title-authors (1).png>)
 
-Vamos falar agora da Guia Categoria.
+Vamos falar agora da Guia Categorias.
 
-### Guia Categoria
+### Guia Categorias
 
 Basicamente funciona igual a Guia Autores. Porém o princípio em relação a organização a biblioteca é categorizar de forma fácil as Títulos.
 
@@ -52,7 +52,7 @@ Possui apenas um campo:
 
 * **Categoria**: Esse campo funciona da seguinte forma: pode-se escrever o nome da categoria e se a mesma já estiver cadastrada irá aparecer na lista, então basta selecioná-la, caso a mesma não exista, a opção de criação aparecerá bastando pressionar `Enter` para que a mesma seja criada, assim como o campo Editora da Guia Edições e o campo Autor da Guia Autores.
 
-Após os campos serem corretamente preechidos, basta clicar no botão `+` para inserir o registro.  O que permite vincular diversas categorias ao mesmo título.
+Após os campos serem corretamente preenchidos, basta clicar no botão `+` para inserir o registro.  O que permite vincular diversas categorias ao mesmo título.
 
 ![Tela de Títulos com Guia de Categorias](../.gitbook/assets/librarian-title-category.png)
 
