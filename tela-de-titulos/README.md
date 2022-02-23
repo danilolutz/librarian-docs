@@ -15,7 +15,7 @@ A tela de Títulos possui três subdivisões: Edições, Autores e Categorias. V
 
 ### Guia Edições
 
-A guia de Edições é onde criamos uma identificação única para o Título dentro de uma biblioteca, elas possui os seguintes campos:
+A guia de Edições é onde criamos uma identificação única para o Título dentro de uma biblioteca, ela possui os seguintes campos:
 
 * **Classificação**: Também conhecido como tombo, é o identificador único que é dado a uma publicação, afinal pode-se possuir publicações repetidas em uma biblioteca.
 * **Edição**: É a edição que normalmente se encontra junto a ficha catalográfica de uma publicação.
