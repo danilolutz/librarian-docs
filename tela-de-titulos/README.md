@@ -28,6 +28,8 @@ Após os campos serem corretamente preenchidos, basta clicar no botão `+` para 
 
 _Nota:_ Ao clicar no botão `+` nada foi salvo ainda, isso só ocorre quando o botão salvar :floppy\_disk: for clicado.
 
+:bulb:Dica: Para salvar um título basta pressionar `Ctrl+S`.
+
 ![Tela de Títulos com Guia de Edições](../.gitbook/assets/librarian-title-edition.png)
 
 Vamos agora verificar como funciona a Guia Autores.

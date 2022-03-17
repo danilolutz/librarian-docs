@@ -30,6 +30,8 @@ Após os campos serem corretamente preenchidos, basta clicar no botão `+` para 
 
 _Nota:_ Ao clicar no botão `+` nada foi salvo ainda, isso só ocorre quando o botão salvar :floppy\_disk: for clicado.
 
+:bulb:Dica: Para salvar uma pessoa basta pressionar `Ctrl+S`.
+
 ![Tela de Pessoa com a Guia Contatos](../.gitbook/assets/librarian-person-contacts.png)
 
 Vamos verificar agora o funcionamento da Guia Endereços

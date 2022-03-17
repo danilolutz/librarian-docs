@@ -25,6 +25,10 @@ _Nota_: Os campos Data Empréstimo e Data Devolução, não são importantes se 
 
 Após os campos serem corretamente preenchidos, basta clicar no botão `+` para realizar o empréstimo/reserva.
 
+
+
+:bulb:Dica: Para realizar um novo empréstimo basta pressionar `Ctrl+S` com os campos corretamente preenchidos.
+
 ![Tela de empréstimos - Guia Empréstimo ](<.gitbook/assets/image (2).png>)
 
 O ícone ![](<.gitbook/assets/image (1).png>) ao ser clicado realiza a **Renovação** de um empréstimo também de acordo com as configurações da [Tela de configurações](tela-de-configuracoes.md).
