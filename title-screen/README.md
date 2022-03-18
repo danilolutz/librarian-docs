@@ -28,6 +28,8 @@ After the fields are correctly filled in, just click on the `+` button to insert
 
 _Note_: When clicking the `+` button nothing has been saved yet, it only happens when the save :floppy\_disk: button is clicked.
 
+💡Tip: to save a Title just press `Ctrl+S`.
+
 ![Titles Screen with Editions Tab](../.gitbook/assets/librarian-title-edition.png)
 
 Let's check how the Authors Tab works.

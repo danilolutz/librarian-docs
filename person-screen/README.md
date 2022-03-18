@@ -30,6 +30,8 @@ After the fields are correctly filled in, just click on the `+` button to insert
 
 _Note_: When clicking the `+` button nothing has been saved yet, it only happens when the save button is clicked.
 
+💡Tip: To save a person just press `Ctrl+S`.
+
 ![Person Screen with Contacts Tab](../.gitbook/assets/librarian-person-contacts.png)
 
 Now let's check how the Addresses Tab works

@@ -25,6 +25,10 @@ _Note_: The Borrow Date and Return Date fields are not important in the case of 
 
 After the fields are correctly filled in, just click on the `+` button to make the borrow/reserve.
 
+
+
+:bulb:Tip: To make a new borrow just press `Ctrl+S`  with fields correct filled.
+
 ![Borrow Screen - Borrow Tab](.gitbook/assets/image.png)
 
 The icon ![](<.gitbook/assets/image (3).png>), when clicked, performs the **Renewal** of a borrow also according to the settings on the [Settings screen](settings-screen.md).
